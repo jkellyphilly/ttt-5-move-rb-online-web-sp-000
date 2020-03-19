@@ -12,6 +12,6 @@ def input_to_index(input)
   output = converted_input - 1
 end
 
-def move(current_board, input, x_or_o)
-  
+def move(current_board, input, x_or_o = "X")
+
 end
